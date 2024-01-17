@@ -1,0 +1,69 @@
+/* Write your CSS here */
+.radial-div {
+  background-image: linear-gradient(#fbc7d4, #9796f0, #8b5cf6);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-size: cover;
+  height: 100vh;
+}
+.white-div {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px;
+  border-radius: 10px;
+}
+.add-img-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.add-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.add-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.add-button {
+  width: 40px;
+  background-color: #8b5cf6;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 2px;
+}
+.img-size {
+  max-width: 50%;
+}
+.breaking-appointment-div {
+  width: 650px;
+}
+.appointments-star {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.appoint-heading {
+  font-size: 15px;
+}
+.star-button {
+  margin-top: 20px;
+  height: 20px;
+}
+.lists-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-shadow: aqua;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+  box-shadow: aliceblue;
+}
+.title-star {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+}
+.heading {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.stars {
+  border-radius: 0px;
+  background-image: transparent;
+}
